@@ -1,0 +1,3 @@
+type Team = {
+  name: string;
+};
