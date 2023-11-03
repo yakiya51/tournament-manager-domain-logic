@@ -1,3 +1,0 @@
-type Team = {
-  name: string;
-};
