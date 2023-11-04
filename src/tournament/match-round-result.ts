@@ -1,4 +1,4 @@
-import { OverwatchMap } from "../overwatch/maps";
+import { OverwatchMap } from "../overwatch/maps.js";
 
 export type MatchRoundResult = {
   map: OverwatchMap;

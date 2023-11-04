@@ -1,6 +1,6 @@
-import { Group } from "./group";
+import { Group } from "./group.js";
 
-import { Team } from "./team";
+import { Team } from "./team.js";
 
 export const stageTypes = [
   "single-elimination",
